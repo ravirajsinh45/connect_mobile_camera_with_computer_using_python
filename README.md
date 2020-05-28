@@ -16,7 +16,7 @@ cd connect_mobile_camera_with_computer_using_python
 
 Now install require libraries.
 ```
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 
