@@ -47,7 +47,7 @@ here is documantation by [Droidcam](https://www.dev47apps.com/droidcam/connect/)
 
 
 1. Download droidcam app on your Android device from [play store](https://play.google.com/store/apps/details?id=com.dev47apps.droidcam&hl=en_IN)
-![](https://github.com/ravirajsinh45/connect_mobile_camera_with_computer_using_python/blob/master/images/play_store.jpg)
+![](https://github.com/ravirajsinh45/connect_mobile_camera_with_computer_using_python/blob/master/images/play_store.jpeg)
 
 2. Download and install [Dev47app](https://www.dev47apps.com/droidcam/windows/) setup on your pc.
 
@@ -57,7 +57,7 @@ here is documantation by [Droidcam](https://www.dev47apps.com/droidcam/connect/)
 4. Plug the device into computer over USB and open Droidcam app. 
     - If you get a dialog on the phone asking “Allow USB Debugging”, you need to tap OK. 
     - If you get dialog `Use USB for` When you plugged in, give permission for Photo transfer(PTP)
-    ![](https://github.com/ravirajsinh45/connect_mobile_camera_with_computer_using_python/blob/master/images/android_screen.jpg)
+    ![](https://github.com/ravirajsinh45/connect_mobile_camera_with_computer_using_python/blob/master/images/android_screen.jpeg)
 
 5. open Droidcam app on pc and click on USB logo and press refreash button, you will get your device name or some random string(unique id). 
 
